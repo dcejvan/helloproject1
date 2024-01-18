@@ -5,7 +5,7 @@
 //You can comment it while you work on the problem
 //When everything works - uncomment and submit!
 package com.gradescope.lab1pr1;
-public class Problem1 {
+public class Main {
     /*Find all the problems (bugs)
     / fix the errors (explain in comments what you did to fix it!)
     / When the program is fixed. Run it.
